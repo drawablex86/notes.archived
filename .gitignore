@@ -1,0 +1,17 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+dummy.html
+assets/img/.DS_Store
+_notes/.obsidian/
+_notes/obsidian.css
+_notes/-000 Index.md
+_notes/Inbox/
+_notes/Journal/
+_notes/References/
+_notes/Templates/
+_notes/Attachments/
+_notes/Private/
+_posts/.DS_Store

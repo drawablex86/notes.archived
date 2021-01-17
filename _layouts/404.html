@@ -1,0 +1,39 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{site.title}}</title>
+
+    <link rel="canonical" href="{{site.url}}{{page.url}}"/>
+    <link rel="apple-touch-icon" href="{{site.profile_pic}}">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+
+    <link rel="icon" href="{{site.favicon}}" type="image/png" sizes="16x16"/>
+    <link href="/assets/css/style.css" rel="stylesheet" media="all" class="default"/>
+
+    <!--[if IE]>
+        <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+</head>
+
+<body>
+    <div class="container">
+        <div class = "box">
+            {%- include header.html -%}
+            <h1>Oops. Not Found!</h1>
+            <p>😕 Hmm... Seems you lost from my journey.</p>
+        </div>
+        <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
+    </div>
+    <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script>
+        document.getElementById("scroll-to-top").addEventListener("click", function() {
+            window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
+        });
+    </script>
+</body>
+</html>

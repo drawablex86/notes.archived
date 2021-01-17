@@ -1,0 +1,7 @@
+- Migrating Knowledge docs from Notion to Obsidian
+- Try to create Atomic Notes, in Zettelkasten format
+- Cleanup Notes.Hiran
+- Writing about Note Taking 
+- Series on Essays on Product-Design-Engineering 
+- Intro to Figma video for Managers & Devs
+- Malayalam Workbook 
