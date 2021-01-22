@@ -20,3 +20,5 @@ notetype : lit
 - [https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/](https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/)
 
 - [[Book - Design Systems Handbook - Marco Suarez]]
+
+#seed 

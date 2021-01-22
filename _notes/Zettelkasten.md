@@ -3,8 +3,6 @@ title: Zettelkasten
 notetype : lit
 ---
 
-#evergreen  
-
 Zettelkasten (Slipbox) recommends creating independent, [[Atomic]] notes so that we can connect it with other ideas and build new ideas. It creates a graph structure. Topic sub-topic format of note taking looks easier, but [[Usable doesn't always result in usefulness]]. 
 
 - Start with **Fleeting notes**, temporary reminders of ideas - terms, jargons, examples - like kindle highlights. 
@@ -17,3 +15,5 @@ Zettelkasten (Slipbox) recommends creating independent, [[Atomic]] notes so that
 - [[Book - How to Take Smart Notes -Sönke Ahrens]] 
 - https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6
 - https://dev.to/yordiverkroost/personal-knowledge-management-with-zettelkasten-and-obsidian-20cj
+
+#evergreen 

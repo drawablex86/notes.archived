@@ -9,3 +9,5 @@ Ask questions, but not questions like "Which one is better / which one do you li
 
 **Source**
 - [[Book - The Brand Gap - Marty Neumeier]] 
+
+#seed 

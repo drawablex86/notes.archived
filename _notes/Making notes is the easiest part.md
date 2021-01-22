@@ -3,8 +3,6 @@ title: Making notes is the easiest part
 notetype : lit
 ---
 
-#seed  
-
 Making notes is the easiest part when it comes to knowledge management. Links, Wikipedia, copy-paste, kindle highlights - all can be considered as notes.The idea of note taking is not to collect, but to develop ideas, arguments and discussions.
 
 **More Notes ≠ More Output.**
@@ -18,3 +16,5 @@ Principles I follow :
 
 **Source**
 - [[Book - How to Take Smart Notes -Sönke Ahrens]]
+
+#seed  

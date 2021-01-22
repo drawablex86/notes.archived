@@ -3,8 +3,6 @@ title: Design Sprint Phases
 notetype : lit
 ---
 
-#seed  
-
 #### Understand
 - What is the problem we’re trying to solve? 
 - [[§Is this a real problem]]? 
@@ -14,7 +12,7 @@ notetype : lit
 - What are the hypothetical solutions might exist to solve these problems?
 - What are all the creative ways we could approach this problem?
 - What are the boundaries that are either constraining us or helping us find a solution? 
-- 
+-  
 #### Converge
 -  Which of our ideas might work best to test our hypothesis?
 -  How can we select good solutions without being biased or presumptive? 
@@ -28,4 +26,6 @@ notetype : lit
 - How will we find them and include them in our tests without influencing their choices or feedback?
 
 **Source**
-[[Book - Enterprise Design Sprints - Richard Banfield]]
+- [[Book - Enterprise Design Sprints - Richard Banfield]]
+
+#seed 

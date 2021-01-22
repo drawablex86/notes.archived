@@ -1,9 +1,7 @@
 ---
-title: Design-Tokens
+title: Design Tokens
 notetype : lit
 ---
-
-#seed 
 
 Design tokens are the “subatomic” foundation of a [[Design System]] implementation. They are the values needed to build a design system, like color, space, typography etc., **represented as data.**
 
@@ -29,3 +27,5 @@ Design tokens are the “subatomic” foundation of a [[Design System]] implemen
 - [[Book - Design Systems Handbook - Marco Suarez]] 
 
 - [https://spectrum.adobe.com/page/design-tokens/ ](https://spectrum.adobe.com/page/design-tokens/)
+
+#seed

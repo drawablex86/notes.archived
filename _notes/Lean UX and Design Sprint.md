@@ -3,8 +3,6 @@ title: Lean UX and Design Sprint
 notetype : lit
 ---
 
-#seed 
-
 - Lean UX follows a build > test > iterate loop. 
 - The idea is to get a product in front of real people, learn from them, then improve it. 
 - **The problem with lean UX is that users aren’t very forgiving and they aren’t big on second chances if we piss them off.**
@@ -15,3 +13,5 @@ notetype : lit
 **Source :**
 
 - [[Book - Enterprise Design Sprints - Richard Banfield]]  
+
+#seed 
