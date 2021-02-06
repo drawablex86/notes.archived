@@ -1,6 +1,7 @@
 ---
 title: Atomic
 notetype : lit
+date: 2021-01-06
 ---
 
 - Atoms are the smallest, building block material in [[Design System]],  that can’t be broken down any further without breaking the functionality.

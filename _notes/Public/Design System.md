@@ -1,6 +1,7 @@
 ---
 title: Design System
 notetype : lit
+date: 2021-01-06
 ---
 
 Design System is a collection of reusable [[Components]], build using [[Atomic]] and Sub-atomic [[Design Tokens]] particles that follow the guideline, behave consistently, and together work as the building block of the product.

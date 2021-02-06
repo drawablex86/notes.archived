@@ -1,6 +1,7 @@
 ---
 title: Design Sprint Phases
 notetype : lit
+date: 2021-02-06
 ---
 
 #### Understand

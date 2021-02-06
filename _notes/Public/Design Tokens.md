@@ -1,6 +1,7 @@
 ---
 title: Design Tokens
 notetype : lit
+date: 2021-02-05
 ---
 
 Design tokens are the “subatomic” foundation of a [[Design System]] implementation. They are the values needed to build a design system, like color, space, typography etc., **represented as data.**

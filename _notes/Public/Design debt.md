@@ -1,6 +1,7 @@
 ---
 title: Design debt
 notetype : lit
+date: 2021-01-06
 ---
 
 - Design debt is design solutions, already proposed but skipped in order to reach short-term goals.
