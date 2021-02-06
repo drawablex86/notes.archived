@@ -12,6 +12,6 @@ notetype : lit
 
 **Source :**
 
-- [[-B- Enterprise Design Sprints]]  
+- [[Book- Enterprise Design Sprints]]  
 
 #🌱def / [[§Interaction]]

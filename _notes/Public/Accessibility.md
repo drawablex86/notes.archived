@@ -9,8 +9,6 @@ notetype : lit
 - Validate [[Data Visualization and color]] usage to assure [[Accessibility]]
 
 **Source**
-- [[-B- Design Systems Handbook]]
+- [[Book- Design Systems Handbook]]
 
 #🌲topic / [[§Empathy]] 
-
-Link Test : [[Test File]]

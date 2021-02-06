@@ -6,6 +6,6 @@ notetype : lit
 Have a clarity in communication, so that everyone remains focused on the same goal. Build an empathetic way of communicating - use the language the others are speaking.
 
 **Source**
-- [[-B- Creative Strategy and the Business of Design]]
+- [[Book- Creative Strategy and the Business of Design]]
 
 #🌱opinion / [[§NoteTaking]]

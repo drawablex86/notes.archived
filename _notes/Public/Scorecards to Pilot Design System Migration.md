@@ -16,6 +16,6 @@ notetype : lit
 -  
 **Source**
 - [https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/](https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/)
-- [[-B- Design Systems Handbook]]
+- [[Book- Design Systems Handbook]]
 
 #🌱opinion / [[§Interaction]]

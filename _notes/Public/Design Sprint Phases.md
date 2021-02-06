@@ -26,6 +26,6 @@ notetype : lit
 - How will we find them and include them in our tests without influencing their choices or feedback?
 
 **Source**
-- [[-B- Enterprise Design Sprints]]
+- [[Book- Enterprise Design Sprints]]
 
 #🌱def / [[§Design]]

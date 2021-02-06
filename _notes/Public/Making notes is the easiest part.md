@@ -13,9 +13,9 @@ Principles I follow :
 - Link notes, but don't try to build a Section Subsection relation 
 - No Tags, No Categorization use notes with MOC instead of tags. 
 - Use Hashtags to mark states, not to build category. 
-More on [[--E- My Workflow]]
+More on [[Essay- My Workflow]]
 
 **Source**
-- [[-B- How to Take Smart Notes]]
+- [[Book- How to Take Smart Notes]]
 
 #🌱opinion / [[§NoteTaking]]

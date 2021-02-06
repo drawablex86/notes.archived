@@ -9,7 +9,7 @@ notetype : lit
 - Commit : Takeaway. 
 
 **Source**
- - [[-B- The Workshopper Playbook - Jonathan Courtney]]
+ - [[Book- The Workshopper Playbook - Jonathan Courtney]]
  - [https://medium.com/curious/the-workshopper-playbook-a-summary-26149d385f68](https://medium.com/curious/the-workshopper-playbook-a-summary-26149d385f68)
  - 
  

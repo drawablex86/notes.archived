@@ -16,14 +16,17 @@
 {%- endif -%}
 
 {%- if page.permalink == "/" -%}
-    {%- for item in site.notes -%}
-    {%- if item.notetype == "lit" -%}
-    <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
-        <a href="{{item.url}}" style="text-decoration: none; color: #333333;">
+
+{% assign note_items = site.notes | sort: 'date' | reverse %}
+
+{% for item in note_items %}
+{%- if item.notetype == "lit" -%}
+<div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+    <a href="{{item.url}}" style="text-decoration: none; color: #333333;">
         <p class="feed-title">{{ item.title }}</p>
         <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 200 }}</p>
-        </a>
-    </div>
-    {%- endif -%}
-    {%- endfor -%}
+    </a>
+</div>
+{%- endif -%}
+{%- endfor -%}
 {%- endif -%}

@@ -7,6 +7,6 @@ notetype : lit
 - [[Figma]]'s variant, by changing component properties from parent-child structure to a key value pair, it is solving a similar problem. 
 
 **Source**
-- [[-B- How to Take Smart Notes]]
+- [[Book- How to Take Smart Notes]]
 
 #🌱opinion / [[§Design]]
