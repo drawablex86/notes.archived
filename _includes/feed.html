@@ -1,6 +1,6 @@
 {%- if page.permalink == "/" -%}
 
-{% assign note_items = site.notes | sort: 'date' | reverse %}
+{% assign note_items = site.notes | sort: "date" | reverse %}
 {% for note_items in note_items %}
 {%- if note_items.notetype == "lit" -%}
 <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{note_items.url}}">
