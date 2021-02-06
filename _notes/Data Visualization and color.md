@@ -8,4 +8,4 @@ While choosing colors to create a new categorical combo, try to pick colors acro
 **Source** 
 - https://ux.mailchimp.com/patterns/data
 
-#seed
+#🌱opinion / [[§Design]]

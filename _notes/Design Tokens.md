@@ -23,9 +23,7 @@ Design tokens are the “subatomic” foundation of a [[Design System]] implemen
 - Eg : Adobe Spectrum Size tokens (size-100 means 100%, 8px on desktop and 10px on mobile )
 
 **Sources** 
+- [[-B- Design Systems Handbook]] 
+- [Adobe Spectrum ](https://spectrum.adobe.com/page/design-tokens/)
 
-- [[Book - Design Systems Handbook - Marco Suarez]] 
-
-- [https://spectrum.adobe.com/page/design-tokens/ ](https://spectrum.adobe.com/page/design-tokens/)
-
-#seed
+#🌱def / [[§Design]]

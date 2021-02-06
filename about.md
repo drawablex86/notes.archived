@@ -11,7 +11,7 @@ Hi! This is [Hiran Venugopalan](http://hiran.in), and welcome to my  Notes.Hiran
 
 ### The Workflow
 
-After using Evernote and Notion for years, I recently moved to [Obsidian](https://obsidian.md/) as it stores text content as  plain [Markdown](https://daringfireball.net/projects/markdown/) files. Notes are created using Obsidian, Atom Editor or using [1Writer](https://1writerapp.com/) and is stored in my private [Dropbox](https://www.dropbox.com/referrals/AABugyzJkQG2BLMNM8UnJqsWLyl30OUkSFc?src=global9). Part of that note (Except my Private Vault, Kindle Hightlight and Experimental Weekly Journal) gets synced to [GitHub Pages](https://pages.github.com/), which renders this page using [Jekyll](https://jekyllrb.com/).
+After using Evernote and Notion for years, I recently moved to [Obsidian](https://obsidian.md/) as it stores text content as  plain [Markdown](https://daringfireball.net/projects/markdown/) files. Notes are created using Obsidian, [VSCode](https://code.visualstudio.com/) or using [1Writer](https://1writerapp.com/) and is stored in my private [Dropbox](https://www.dropbox.com/referrals/AABugyzJkQG2BLMNM8UnJqsWLyl30OUkSFc?src=global9). Part of that note (Except my Private Vault, Kindle Hightlight and Experimental Weekly Journal) gets synced to [GitHub Pages](https://pages.github.com/), which renders this page using [Jekyll](https://jekyllrb.com/).
 
 If you see any broken links (one with the yellow highlight or hashtags), it's either a bug or a link to other folders and tags in my Obsidian, which are not public. _And in case if it asks for any password, try വാപ്പച്ചിയുടെലെഗസി, ഹോളിബൈബിൾ, etc. 🙈🙉🙊_
 

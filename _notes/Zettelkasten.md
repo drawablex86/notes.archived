@@ -12,8 +12,8 @@ Zettelkasten (Slipbox) recommends creating independent, [[Atomic]] notes so that
 - **Keyword notes** (Map of Concepts) - An index note, a set related permanent notes. Consider it as a starting point, or index of one topic. It works as a bridge note between two similar, but unconnected notes.
 
 **Source**
-- [[Book - How to Take Smart Notes -Sönke Ahrens]] 
-- https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6
-- https://dev.to/yordiverkroost/personal-knowledge-management-with-zettelkasten-and-obsidian-20cj
+- [[-B- How to Take Smart Notes]] 
+- [https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6)
+- [https://dev.to/yordiverkroost/personal-knowledge-management-with-zettelkasten-and-obsidian-20cj](https://dev.to/yordiverkroost/personal-knowledge-management-with-zettelkasten-and-obsidian-20cj)
 
-#evergreen 
+#🌱def / [[§NoteTaking]]

@@ -8,6 +8,6 @@ Create multiple prototypes, present it to outsiders (real audience, not people i
 Ask questions, but not questions like "Which one is better / which one do you like". Ask about what they understand, see, in the brand. Ask why, make them talk more. 
 
 **Source**
-- [[Book - The Brand Gap - Marty Neumeier]] 
+- [[-B- The Brand Gap]]
 
-#seed 
+#🌱opinion / [[§Interaction]]

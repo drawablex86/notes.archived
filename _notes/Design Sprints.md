@@ -8,7 +8,7 @@ Design Sprint is a process for solving and validating ideas. [[Design Sprint Pha
 [[Design sprints aren’t just for designers.]] 
 
 **Sources**
-- [[Book - Enterprise Design Sprints - Richard Banfield]]
-- [[Book - Sprint How To Solve Big Problems and Test New Ideas in Just Five Days - Jake Knapp ]]
+- [[-B- Enterprise Design Sprints]]
+- [[Book - Sprint How To Solve Big Problems and Test New Ideas in Just Five Days ]]
 
-#evergreen
+#🌲topic / [[§Design]]

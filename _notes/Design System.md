@@ -3,7 +3,7 @@ title: Design System
 notetype : lit
 ---
 
-Design System is a collection of reusable [[Components]], build using [[Atomic]] and Sub-atomic [[Design Tokens]] particles that follow the guideline, behave consistently, and together work as the building block of the product.
+Design System is a collection of reusable [[-Components]], build using [[Atomic]] and Sub-atomic [[Design Tokens]] particles that follow the guideline, behave consistently, and together work as the building block of the product.
 
 A design system is not a pattern library or a sticker sheet. Atoms being consistent or similar in a design system won't make the final result compatible. For that, it requires a clear documented guideline on behavior and usage patterns. Usage patterns, organisms and templates makes system scalable [[Design is Scaling]]. 
 
@@ -11,9 +11,10 @@ Design system is like Lego, but does come with some, themes and rules. *The comb
 
 Consider the design system as the single source of truth which groups all the elements that will allow the teams to design, realize and develop a product.
 
-Start with [[Pilots & Scorecards]] instead of over planning and under achieving.
+Start with [[Scorecards to Pilot Design System Migration]] instead of over planning and under achieving.
 
-- [[§Design System Advantages]]
+- [[-Advantages of Having a Design System]]
+- [[-Design System Learning]]
 
 **Sources**
 
@@ -23,4 +24,4 @@ Start with [[Pilots & Scorecards]] instead of over planning and under achieving.
 
 - [https://www.smashingmagazine.com/design-systems-book/](https://www.smashingmagazine.com/design-systems-book/)
 
-#evergreen
+#🌲topic / [[§Design]]

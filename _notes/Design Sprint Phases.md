@@ -5,7 +5,7 @@ notetype : lit
 
 #### Understand
 - What is the problem we’re trying to solve? 
-- [[§Is this a real problem]]? 
+- [[--Is this a real problem]]? 
 - Who is this problem relevant / why do they care to have it solved? 
  
 #### Diverge
@@ -26,6 +26,6 @@ notetype : lit
 - How will we find them and include them in our tests without influencing their choices or feedback?
 
 **Source**
-- [[Book - Enterprise Design Sprints - Richard Banfield]]
+- [[-B- Enterprise Design Sprints]]
 
-#seed 
+#🌱def / [[§Design]]

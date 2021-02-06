@@ -11,4 +11,4 @@ notetype : lit
 - https://en.wikipedia.org/wiki/ACID
 - https://atomicdesign.bradfrost.com/chapter-2/
 
-#seed 
+#🌱def / [[-System]]

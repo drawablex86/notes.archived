@@ -6,6 +6,8 @@
 
 - Malayalam Workbook project. 
 
+- Interview/Conversation with creative people on idea conception, convincing and collaboration. 
+
 - Write : 
 	- 1. Note Taking 
 	- 2. Product Design Process

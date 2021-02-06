@@ -12,6 +12,6 @@ notetype : lit
 
 **Source :**
 
-- [[Book - Enterprise Design Sprints - Richard Banfield]]  
+- [[-B- Enterprise Design Sprints]]  
 
-#seed 
+#🌱def / [[§Interaction]]

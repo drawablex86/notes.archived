@@ -9,6 +9,8 @@ notetype : lit
 - Validate [[Data Visualization and color]] usage to assure [[Accessibility]]
 
 **Source**
-- [[Book - Design Systems Handbook - Marco Suarez]]
+- [[-B- Design Systems Handbook]]
 
-#seed 
+#🌲topic / [[§Empathy]] 
+
+Link Test : [[Test File]]

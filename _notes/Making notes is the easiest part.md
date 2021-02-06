@@ -9,12 +9,13 @@ Making notes is the easiest part when it comes to knowledge management. Links, W
 
 Principles I follow : 
 - Make [[Atomic]] notes, one concept per note. 
-- Write in my own words. Mark #quote at source
+- Write in my own words. Mark #🔖quote at source
 - Link notes, but don't try to build a Section Subsection relation 
 - No Tags, No Categorization use notes with MOC instead of tags. 
 - Use Hashtags to mark states, not to build category. 
+More on [[--E- My Workflow]]
 
 **Source**
-- [[Book - How to Take Smart Notes -Sönke Ahrens]]
+- [[-B- How to Take Smart Notes]]
 
-#seed  
+#🌱opinion / [[§NoteTaking]]

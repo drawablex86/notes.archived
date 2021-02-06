@@ -7,7 +7,7 @@ The Pareto principle states that for many outcomes roughly 80% of consequences c
 
 > what 20% can we design and build that can assuage 80% of the wheel reinvention pain?
 
-**source**
-https://en.wikipedia.org/wiki/Pareto_principle
+**Source**
+- [Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)
 
-#seed
+#🌱def / [[§Psychology]]
