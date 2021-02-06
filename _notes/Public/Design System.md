@@ -7,7 +7,7 @@ Design System is a collection of reusable [[-Components]], build using [[Atomic]
 
 A design system is not a pattern library or a sticker sheet. Atoms being consistent or similar in a design system won't make the final result compatible. For that, it requires a clear documented guideline on behavior and usage patterns. Usage patterns, organisms and templates makes system scalable [[Design is Scaling]]. 
 
-Design system is like Lego, but does come with some, themes and rules. *The combinations are not endless.*
+[[Design system is like Lego]], but does come with some, themes and rules. *The combinations are not endless.*
 
 Consider the design system as the single source of truth which groups all the elements that will allow the teams to design, realize and develop a product.
 
