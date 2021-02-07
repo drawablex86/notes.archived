@@ -1,6 +1,7 @@
 ---
 title: Lean UX and Design Sprint
 notetype : lit
+date: 2021-02-04
 ---
 
 - Lean UX follows a build > test > iterate loop. 

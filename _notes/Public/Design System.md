@@ -1,7 +1,7 @@
 ---
 title: Design System
 notetype : lit
-date: 2021-01-06
+date: 2021-02-06
 ---
 
 Design System is a collection of reusable [[Components]], build using [[Atomic]] and Sub-atomic [[Design Tokens]] particles that follow the guideline, behave consistently, and together work as the building block of the product.
@@ -14,10 +14,10 @@ Consider the design system as the single source of truth which groups all the el
 
 Start with [[Scorecards to Pilot Design System Migration]] instead of over planning and under achieving.
 
-- [[-Advantages of Having a Design System]]
-- [[-Design System Learning]]
+- [[Advantages of Having a Design System]]
+- [[Design System Learning]]
 
-**Sources**
+**Sources :**
 
 - [https://www.invisionapp.com/inside-design/guide-to-design-systems/](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 

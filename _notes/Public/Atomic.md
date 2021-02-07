@@ -1,7 +1,7 @@
 ---
 title: Atomic
 notetype : lit
-date: 2021-01-06
+date: 2021-02-05
 ---
 
 - Atoms are the smallest, building block material in [[Design System]],  that can’t be broken down any further without breaking the functionality.
@@ -12,4 +12,4 @@ date: 2021-01-06
 - https://en.wikipedia.org/wiki/ACID
 - https://atomicdesign.bradfrost.com/chapter-2/
 
-#🌱def / [[-System]]
+#🌱def / [[System]]

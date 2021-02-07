@@ -1,8 +1,9 @@
 ---
 title: Scorecards to Pilot Design System Migration
 notetype : lit
+date: 2021-02-02
 ---
-- Do [[-Interface Inventory]], and find the frequency of usage of common components. Apply [[Pareto Principle]]
+- Do [[Interface Inventory]], and find the frequency of usage of common components. Apply [[Pareto Principle]]
 - It is better to start with a pilot project, instead of doing for the entire project. 
 
 - **Sweet Spot**
@@ -14,7 +15,7 @@ notetype : lit
 	- Can be decoupled and built / don't break.
 -  Create a Pilot Scorecard (1-10) that shows you which products to has better score, based on these sweet spots.
 -  
-**Source**
+**Source :**
 - [https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/](https://superfriendlydesign.systems/articles/design-systems-pilots-scorecards/)
 - [[Book- Design Systems Handbook]]
 
