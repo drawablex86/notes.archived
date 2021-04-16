@@ -1,19 +1,12 @@
-- Migrating Notes from Notion to Obsidian, attempt to make more atomic notes that are interconnected. Digital Garden / Zettel method.
+- Working on obsidian to build a robust personal management system
 
-- Homepage for Anish, Little Black Choux, Indic.app and SMC Fonts. Trying to work on small, tactical, long-term impact designs. 
+- Learning more about zettlekasten and it's implementation in my work flow
 
-- Start uploading old design works, either to Behance, or hiran.in - attempt to build a live portfolio. 
+- Diversifying my skillset to learn a little of coding for web development
 
-- Malayalam Workbook project. 
+- UX/UI Certification and diving into UX writing
 
-- Interview/Conversation with creative people on idea conception, convincing and collaboration. 
+- Writing content for commercial websites and articles for smaller publications
 
-- Write : 
-	- 1. Note Taking 
-	- 2. Product Design Process
-	- 3. Tools and Usages 
-	- 4. Figma for Managers and Devs - Video?
+- Helping post graduates polishing their disseratation paper
 
-- Workshop : 
-	- 1. Design Thinking Workshop 
-	- 2. Design System Workshop 
