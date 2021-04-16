@@ -5,7 +5,6 @@ permalink: /about
 content-type: eg
 ---
 
-## About
 
 Hi! I'm [Rahul Rajeev](https://www.instagram.com/rdrawsstuff/), and this is "sort of a" blog that I am trying to create. 
 
