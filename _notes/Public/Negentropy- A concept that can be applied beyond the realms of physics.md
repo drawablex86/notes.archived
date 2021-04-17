@@ -49,7 +49,7 @@ date: 2021-02-01
 	- A dissipative structure maintains itself far from equilibrium and may even move farther and farther away from it through a series of bifurcations.  
 	-  At the bifurcation points, conditions of higher order…may emerge spontaneously”
 	-  _Define bifurification_ (exiting from the status quo)
-	-  it might need to consider a bifurication point and it involves a dramatic restructuring
+	-  it might need to consider a bifurication point and it involves a dramatic restructuring.
 	
 	### Why?
 	- _Parallels in nature_
@@ -57,7 +57,7 @@ date: 2021-02-01
 	- *We imagine order is equilibrium. But dramatic change can be a source of new order (efficient and higher)*
 	- open systems, where intelligence is diffused or spread to all members of the organization, will tend to make better decisions, do so quickly
 	-  Institute order and rigid structure, and while you may achieve standardization, you’ll also squelch creativity
-	-  Where creativity is valuable, learning to accept chaos is a must
+	-  Where creativity is valuable, learning to accept chaos is a must.
 
 
 	### Challenges here
