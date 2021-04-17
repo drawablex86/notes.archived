@@ -17,4 +17,4 @@ Zettelkasten (Slipbox) recommends creating independent, [[Atomic]] notes so that
 - [https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6](https://medium.com/@rebeccawilliams9941/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6)
 - [https://dev.to/yordiverkroost/personal-knowledge-management-with-zettelkasten-and-obsidian-20cj](https://dev.to/yordiverkroost/personal-knowledge-management-with-zettelkasten-and-obsidian-20cj)
 
-#🌱def / [[§NoteTaking]]
+#notetaking
