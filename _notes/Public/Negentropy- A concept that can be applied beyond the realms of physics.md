@@ -44,18 +44,22 @@ date: 2021-02-01
 - Two things can happen:
 	1. The organisation could die
 	2. It can trigger a significant new innovation
+	
 	### How?
 	- A dissipative structure maintains itself far from equilibrium and may even move farther and farther away from it through a series of bifurcations.  
 	-  At the bifurcation points, conditions of higher order…may emerge spontaneously”
 	-  _Define bifurification_ (exiting from the status quo)
 	-  it might need to consider a bifurication point and it involves a dramatic restructuring
+	
 	### Why?
 	- _Parallels in nature_
 		- “In living systems, the order arising from nonequilibrium is far more evident, being manifest in the richness, diversity and beauty of life all around us. Throughout the living world, chaos is transformed into order”
 	- *We imagine order is equilibrium. But dramatic change can be a source of new order (efficient and higher)*
 	- open systems, where intelligence is diffused or spread to all members of the organization, will tend to make better decisions, do so quickly
 	-  Institute order and rigid structure, and while you may achieve standardization, you’ll also squelch creativity
-	-  Where creativity is valuable, learning to accept chaos is a must”
+	-  Where creativity is valuable, learning to accept chaos is a must
+
+
 	### Challenges here
 	-  *It is quite possible that we may take this restructuring as energy loss and more chaotic*
 
