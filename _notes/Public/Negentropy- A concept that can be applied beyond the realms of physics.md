@@ -1,10 +1,10 @@
 ---
 title: Negentropy:A concept that can be applied beyond the realms of physics
 notetype : lit
-date: 2021-02-01
+date: 2021-04-01
 ---
 ## What is Negentropy?
-- Negentropy is a construct drawn from physics that can be conceptualized as the opposite of energy losses associated with normal organizational life.
+- Negentropy is a construct drawn from physics that can be conceptualized as the opposite of energy losses associated with normal organizational life. 
 - It can be a powerful tool for sustainable, progressive models of organizational advancement.
 - **Negentropy in Physics**
 	- The second law essentially expresses the understanding of decay or energy loss within an organization over time

@@ -1,7 +1,7 @@
 ---
 title: How to learn anything
 notetype : lit
-date: 2021-02-01
+date: 2021-03-01
 ---
 The session by futur on how to learn anything was incredible useful in clarifying certain approaches that I need to implement in my life asap.
 
@@ -45,6 +45,6 @@ You might be also interested in finding more about [[Anki App for Flash Card lea
 1. [Futr: How to Learn Anything! For Creatives & Self Learners](https://www.youtube.com/watch?v=ujxvy5NjeRQ&t=2s)
 
 
- #SelfImprovement #Learning
+
 
 

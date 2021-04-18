@@ -1,7 +1,7 @@
 ---
 title: Anki App for Flash Card learning
 notetype : lit
-date: 2021-02-01
+date: 2021-04-01
 ---
  
 
