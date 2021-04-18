@@ -36,6 +36,7 @@ This sort of analysis helps you breakdown a masterpiece and identify what makes 
 
 I find something similar to discussed by Marshall and Stan in [Draftsmen](https://player.fm/series/draftsmen) podcast that talks about discovering your art parents.
 
+You might be also interested in finding more about [[Anki App for Flash Card learning]]
 
 
 
