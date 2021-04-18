@@ -1,6 +1,6 @@
 ---
 title: How to sync your obsidian notes across all your computers for free 
-notetype : Permanent
+notetype : lit
 date: 2021-04-18
 ---
 
