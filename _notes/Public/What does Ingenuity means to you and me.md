@@ -35,7 +35,8 @@ Now, being lighter does not make the job any less difficult. To achieve lift and
 
 The spin rate was achieved nevertheless with the use of eight electric motors:
 - One Brushless DC Motor to spin each of the two rotors
-- Three Brushed DC Motors for each rotor to actuate their ["swash plate"](https://en.wikipedia.org/wiki/Swashplate_(aeronautics))
+- Three Brushed DC Motors for each rotor to actuate their ["swash plate"](https://en.wikipedia.org/wiki/Swashplate_(aeronautics)).
+
 *The sheer advancement in power transmission and generation can be be seen in the fact that each of these motors is only two inches in diameter*
 
 
